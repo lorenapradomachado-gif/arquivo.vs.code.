@@ -1,1 +1,1 @@
-# arquivo.vs.code.
+# arquivo.vs.code
